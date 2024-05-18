@@ -7,7 +7,8 @@ How to implement a "scrollspy" feature on a webpage, enhancing user experience b
 
 ## YouTube Video Link
 [https://youtu.be/QsQRDXfOUY0
-](https://youtu.be/lLPoX0nUmyc)
+]
+
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codzsword)
 
 ## Key Features
